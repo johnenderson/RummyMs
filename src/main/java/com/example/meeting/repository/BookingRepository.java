@@ -1,6 +1,5 @@
 package com.example.meeting.repository;
 
-import com.example.meeting.dto.BookingDTO;
 import com.example.meeting.model.Booking;
 import com.example.meeting.model.Room;
 import org.springframework.data.jpa.repository.JpaRepository;
